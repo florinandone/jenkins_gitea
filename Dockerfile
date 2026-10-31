@@ -1,4 +1,4 @@
-FROM docker.io/jenkins/jenkins:lts-jdk21
+FROM docker.io/jenkins/jenkins:lts-jdk25
 
 USER root
 # Update package lists and install rsync
